@@ -1,5 +1,6 @@
-<img width='50%' heigh='50%' align='center' src='./img/giphy.gif'>
-
+<p align='center'>
+<img width='75%'  src='./img/giphy.gif'>
+</p>
 
 <h1 align='center'>
  Full Stack Developer 

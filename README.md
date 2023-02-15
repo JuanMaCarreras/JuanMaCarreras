@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**JuanMaCarreras/JuanMaCarreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+ Full Stack Developer 
+</h1>
 
-Here are some ideas to get you started:
+<p> Hola! Mi nombre es Juan Manuel Carreras. Luego de estudiar programación de manera autodidacta decidí desafiarme en un Bootcamp. Actualmente me encuentro certificado como Full Stack Developer en el bootcamp de HENRY, acá tuve la experiencia participar en proyectos reales tanto individualmente como proyectos grupales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el que pueda seguir capacitándome y perfeccionando mis habilidades técnicas. 
+
+
+
+
+
+</p>
+
+
+

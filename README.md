@@ -1,4 +1,4 @@
-<img width='7%' src='./img/giphy.gif'>
+<img width='50%' src='./img/giphy.gif'>
 
 
 <h1 align='center'>
@@ -18,7 +18,7 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 <img width='5%' src='./img/Javascript_Logo.png'>
 <img width='5%' src='./img/React_Logo.png'>
 <img width='5%' src='./img/Redux_Logo.png'>
-<img width='5%' src='./img/Nodejs_Logo.png'>
+<img width='5%' src='./img/Node_Logo.png'>
 <img width='5%' src='./img/postgreSQL_Logo.png'>
 <img width='5%' src='./img/Sequelize_logo.png'>
 <img width='5%' src='./img/Git_Logo.png'>

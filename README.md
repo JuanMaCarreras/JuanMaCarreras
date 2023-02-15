@@ -34,10 +34,27 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 <img width='5%' src='./img/Git_Logo.png'>
 
 
+<h2>Mis Proyectos</h2>
+ 
+ <p><strong>Proyecto Final</strong> <br>
+    Diseñar y desarrollar un E-Commerce de Libros que incluía: búsquedas, filtrados, ordenamientos, creación, autenticaciones de usuarios, pasarela de pagos, chatbot, reviews, dashboard, productos destacados.
+</p>
+
+   <a href='https://github.com/scch94/probando-pf'><strong>Henry Books</strong></a>
+
+<p><strong>Proyecto Individual</strong> <br>
+El objetivo de este proyecto es hacer una App usando React, Redux, NodeJS, Sequelize y Express.
+ - Desarrollando y gestionando servidores con (Express y NodeJs) Base de Datos con ( Postgres SQL y Sequelize) 
+- Desarrollando y gestionando la parte del cliente con (ReactJs, Redux, HTML y CSS)
+ React y sus estados locales / coompnentes y sus siclos de vida
+ Redux y sus estados globales</p>
+
+<a href='https://github.com/JuanMaCarreras/PI-Countries'><strong>Countries</strong></a>
+
 
 <h2>No dudes en contactarme!</h2>
 
 <p>Correo: manuucarreras@gmail.com</p>
+<p>+54 351-3467425 - WhatsApp </p>
 <a href='https://www.linkedin.com/in/manuel-carreras/'>Linkedin</a>
-
 

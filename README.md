@@ -1,4 +1,4 @@
-<img width='100%' heigh='50%' align='center' src='./img/giphy.gif'>
+<img width='50%' heigh='50%' align='center' src='./img/giphy.gif'>
 
 
 <h1 align='center'>

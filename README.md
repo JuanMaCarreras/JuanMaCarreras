@@ -1,4 +1,4 @@
-<img src='./img/giphy.gif'>
+<img width='7%' src='./img/giphy.gif'>
 
 
 <h1 align='center'>
@@ -13,16 +13,15 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 
 <h2>Habilidades</h2>
 
-<img width='4%' src='./img/HTML_Logo.png'>
-<img width='4%' src='./img/Css_logo.png'>
-<img width='4%' src='./img/javascript_Logo.png'>
-<img width='4%' src='./img/React_Logo.png'>
-<img width='4%' src='./img/Redux_Logo.png'>
-<img width='4%' src='./img/Nodejs_Logo.png'>
-<img width='4%' src='./img/Express.png'>
-<img width='4%' src='./img/postgresSQL_Logo.png'>
-<img width='4%' src='./img/Sequelize_Logo.png'>
-<img width='4%' src='./img/Git_Logo.png'>
+<img width='5%' src='./img/HTML_Logo.png'>
+<img width='5%' src='./img/Css_Logo.png'>
+<img width='5%' src='./img/Javascript_Logo.png'>
+<img width='5%' src='./img/React_Logo.png'>
+<img width='5%' src='./img/Redux_Logo.png'>
+<img width='5%' src='./img/Nodejs_Logo.png'>
+<img width='5%' src='./img/postgreSQL_Logo.png'>
+<img width='5%' src='./img/Sequelize_logo.png'>
+<img width='5%' src='./img/Git_Logo.png'>
 
 
 

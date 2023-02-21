@@ -37,7 +37,7 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 <p><strong>Actualmente familiarizándome con ...</strong></p>
 
 <p>
-<img width='5%' src='./img/tailwind-css-logo'>
+<img width='5%' src='./img/tailwind-css-logo.png'>
 </p>
 
 <h2>Mis Proyectos</h2>

@@ -43,17 +43,20 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 <h2>Mis Proyectos</h2>
  
  <p><strong>Proyecto Final</strong> <br>
+ 
     Diseñar y desarrollar un E-Commerce de Libros que incluía: búsquedas, filtrados, ordenamientos, creación, autenticaciones de usuarios, pasarela de pagos, chatbot, reviews, dashboard, productos destacados.
 </p>
 
 <a href='https://github.com/scch94/probando-pf'><strong>Henry Books</strong></a>
 
 <p><strong>Proyecto Individual</strong> <br>
+
 El objetivo de este proyecto es hacer una App usando React, Redux, NodeJS, Sequelize y Express.
- - Desarrollando y gestionando servidores con (Express y NodeJs) Base de Datos con ( Postgres SQL y Sequelize) 
+
+- Desarrollando y gestionando servidores con (Express y NodeJs) Base de Datos con ( Postgres SQL y Sequelize)
 - Desarrollando y gestionando la parte del cliente con (ReactJs, Redux, HTML y CSS)
- React y sus estados locales / coompnentes y sus siclos de vida
- Redux y sus estados globales</p>
+  React y sus estados locales / coompnentes y sus siclos de vida
+  Redux y sus estados globales</p>
 
 <a href='https://github.com/JuanMaCarreras/PI-Countries'><strong>Countries</strong></a>
 

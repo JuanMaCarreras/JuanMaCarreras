@@ -26,7 +26,7 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 
 <p>
 <img width='7%' src='./img/Node_Logo.png'>
-<img width='5%' src='./img/express-original-wordmark.png'>
+<img width='5%' src='./img/Express.png'>
 </p>
 <p>
 <img width='5%' src='./img/postgreSQL_Logo.png'>

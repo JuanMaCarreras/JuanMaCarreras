@@ -24,8 +24,8 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 <img width='5%' src='./img/Redux_Logo.png'>
 </p>
 
-<p display= 'flex'; align = 'center'>
-<img width='6%' src='./img/Node_Logo.png'> 
+<p display= 'flex' align = 'center'>
+<img width='6%' margin-right= '10px' src='./img/Node_Logo.png'> 
 <h3  width='7%' > Express </h3>
 </p>
 <p>

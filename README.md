@@ -6,7 +6,7 @@
  Full Stack Developer 
 </h1>
 
-<h4> Hola! Mi nombre es Juan Manuel Carreras. Luego de estudiar programación de manera autodidacta decidí desafiarme en un Bootcamp. Actualmente me encuentro certificado como <strong>Full Stack Developer</strong> en el bootcamp de HENRY, acá tuve la experiencia participar en proyectos reales tanto individualmente como proyectos grupales. </br>
+<h4> Hola! Mi nombre es Juan Manuel Carreras. Luego de estudiar programación de manera autodidacta decidí desafiarme en un Bootcamp. Actualmente me encuentro certificado como <strong>Full Stack Developer</strong> en el bootcamp de HENRY, acá tuve la experiencia participar en proyectos reales tanto individualmente como proyectos grupales. <br>
 
 Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme a un equipo de trabajo en el que pueda seguir capacitándome y perfeccionando mis habilidades técnicas.
 
@@ -24,10 +24,10 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 <img width='5%' src='./img/Redux_Logo.png'>
 </p>
 
-<p display= 'flex' align = 'center'>
+<div>
 <img width='6%' float= 'left' margin-right= '10px' src='./img/Node_Logo.png'> 
 <h3  width='7%' > Express </h3>
-</p>
+</div>
 
 <p>
 <img width='5%' src='./img/postgreSQL_Logo.png'>

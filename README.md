@@ -55,5 +55,5 @@ Proyecto =><a href='https://github.com/JuanMaCarreras/PI-Countries'><strong>Coun
 
 ## _No dudes en contactarme!_
 
-**Correo: manuucarreras@gmail.com_** </br>
+**Correo: manuucarreras@gmail.com** </br>
 **<a href='https://www.linkedin.com/in/manuel-carreras/'>Linkedin</a>**

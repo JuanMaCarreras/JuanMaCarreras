@@ -36,7 +36,7 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 
 ### Otras Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
 
 <h2 align='center'>Proyectos en los que he participado</h2>
 
@@ -61,5 +61,5 @@ El objetivo de este proyecto es hacer una App usando React, Redux, NodeJS, Seque
 
 ## _No dudes en contactarme!_
 
-**Correo: manuucarreras@gmail.com_** </br>
+**Correo: manuucarreras@gmail.com\_** </br>
 **<a href='https://www.linkedin.com/in/manuel-carreras/'>Linkedin</a>**

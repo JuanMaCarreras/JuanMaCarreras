@@ -38,7 +38,7 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 
 ### Proyecto Grupal
 
-    Diseñar y desarrollar un E-Commerce de Libros que incluía: búsquedas, filtrados, ordenamientos, creación, autenticaciones de usuarios, pasarela de pagos, chatbot, reviews, dashboard, productos destacados.
+Diseñar y desarrollar un E-Commerce de Libros que incluía: búsquedas, filtrados, ordenamientos, creación, autenticaciones de usuarios, pasarela de pagos, chatbot, reviews, dashboard, productos destacados.
 
 Proyecto -><a href='https://github.com/scch94/probando-pf'><strong>Henry Books</strong></a>
 
@@ -55,5 +55,5 @@ Proyecto -><a href='https://github.com/JuanMaCarreras/PI-Countries'><strong>Coun
 
 ## _No dudes en contactarme!_
 
-**Correo: manuucarreras@gmail.com_** </br>
+**Correo: manuucarreras@gmail.com\_** </br>
 **<a href='https://www.linkedin.com/in/manuel-carreras/'>Linkedin</a>**

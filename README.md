@@ -2,9 +2,9 @@
 <img width='55%'  src='./img/giphy.gif'>
 </p>
 
-<h1 align='center'>
+<h2 align='center'>
  Full Stack Developer 
-</h1>
+</h2>
 
 ## ¿Quién soy?
 
@@ -16,11 +16,11 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 
 </p>
 
-<h1 align='center'> Habilidades: </h1>
+<h2 align='center'> Habilidades: </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 
-<h1 align='center'>Frameworks y bibliotecas:</h1>
+<h2 align='center'>Frameworks y bibliotecas:</h2>
 
 ### Desarrollo Fornt-End
 
@@ -38,13 +38,12 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
 
-<h1 align='center'>Proyectos en los que he participado</h1>
+<h2 align='center'>Proyectos en los que he participado</h2>
 
 ### Proyecto Final
 
  <br>
     Diseñar y desarrollar un E-Commerce de Libros que incluía: búsquedas, filtrados, ordenamientos, creación, autenticaciones de usuarios, pasarela de pagos, chatbot, reviews, dashboard, productos destacados.
-</p>
 
 <a href='https://github.com/scch94/probando-pf'><strong>Henry Books</strong></a>
 
@@ -56,11 +55,11 @@ El objetivo de este proyecto es hacer una App usando React, Redux, NodeJS, Seque
 -   Desarrollando y gestionando servidores con (Express y NodeJs) Base de Datos con ( Postgres SQL y Sequelize)
 -   Desarrollando y gestionando la parte del cliente con (ReactJs, Redux, HTML y CSS)
     React y sus estados locales / coompnentes y sus siclos de vida
-    Redux y sus estados globales</p>
+    Redux y sus estados globales
 
 <a href='https://github.com/JuanMaCarreras/PI-Countries'><strong>Countries</strong></a>
 
 ## _No dudes en contactarme!_
 
-_Correo: manuucarreras@gmail.com_ </br>
-<a href='https://www.linkedin.com/in/manuel-carreras/'>Linkedin</a>
+**Correo: manuucarreras@gmail.com_** </br>
+**<a href='https://www.linkedin.com/in/manuel-carreras/'>Linkedin</a>**

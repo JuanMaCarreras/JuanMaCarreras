@@ -40,7 +40,7 @@ Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme
 
 <h2 align='center'>Proyectos en los que he participado</h2>
 
-### Proyecto Final
+### Proyecto Grupal
 
  <br>
     Diseñar y desarrollar un E-Commerce de Libros que incluía: búsquedas, filtrados, ordenamientos, creación, autenticaciones de usuarios, pasarela de pagos, chatbot, reviews, dashboard, productos destacados.
@@ -61,5 +61,5 @@ El objetivo de este proyecto es hacer una App usando React, Redux, NodeJS, Seque
 
 ## _No dudes en contactarme!_
 
-**Correo: manuucarreras@gmail.com\_** </br>
+**Correo: manuucarreras@gmail.com_** </br>
 **<a href='https://www.linkedin.com/in/manuel-carreras/'>Linkedin</a>**

@@ -1,7 +1,3 @@
-<p align='center'>
-<img width='55%'  src='./img/giphy.gif'>
-</p>
-
 <h2 align='center'>
  Full Stack Developer 
 </h2>
@@ -59,5 +55,5 @@ Proyecto -><a href='https://github.com/JuanMaCarreras/PI-Countries'><strong>Coun
 
 ## _No dudes en contactarme!_
 
-**Correo: manuucarreras@gmail.com\_** </br>
+**Correo: manuucarreras@gmail.com_** </br>
 **<a href='https://www.linkedin.com/in/manuel-carreras/'>Linkedin</a>**

@@ -62,5 +62,5 @@ El objetivo de este proyecto es hacer una App usando React, Redux, NodeJS, Seque
 
 ## _No dudes en contactarme!_
 
-_Correo: manuucarreras@gmail.com_
+_Correo: manuucarreras@gmail.com_ </br>
 <a href='https://www.linkedin.com/in/manuel-carreras/'>Linkedin</a>

@@ -8,8 +8,6 @@ Hola! Mi nombre es Juan Manuel Carreras. Luego de estudiar programación de mane
 
 Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme a un equipo de trabajo en el que pueda seguir capacitándome y perfeccionando mis habilidades técnicas.
 
-Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme a un equipo de trabajo en el que pueda seguir capacitándome y perfeccionando mis habilidades técnicas.
-
 </p>
 
 <h2 align='center'> Habilidades: </h2>

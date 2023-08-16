@@ -4,9 +4,11 @@
 
 ## ¿Quién soy?
 
-Hola! Mi nombre es Juan Manuel Carreras. Luego de estudiar programación de manera autodidacta decidí desafiarme en un Bootcamp. Actualmente me encuentro certificado como **Full Stack Developer** en el bootcamp de HENRY, acá tuve la experiencia participar en proyectos reales tanto individualmente como proyectos grupales.
+👋 Hola! Mi nombre es Juan Manuel Carreras.
 
-Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme a un equipo de trabajo en el que pueda seguir capacitándome y perfeccionando mis habilidades técnicas.
+Después de profundizar en la programación de manera autodidacta, decidí enfrentar nuevos desafíos. Actualmente, ostento la certificación de **Full Stack Developer** y he tenido la oportunidad de participar en proyectos reales. Estas experiencias abarcaron tanto trabajos en solitario como colaboraciones grupales, lo que me ha permitido ampliar mis habilidades y conocimientos en el desarrollo de software.
+
+Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el que pueda seguir capacitándome y perfeccionando mis habilidades técnicas.
 
 Estoy ansioso de comenzar mi etapa laboral, abierto a nuevos desafíos y sumarme a un equipo de trabajo en el que pueda seguir capacitándome y perfeccionando mis habilidades técnicas.
 

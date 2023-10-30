@@ -32,7 +32,7 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 
 ### Otras Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman)](https://skillicons.dev)
 
 <h2 align='center'>Proyectos en los que he participado</h2>
 

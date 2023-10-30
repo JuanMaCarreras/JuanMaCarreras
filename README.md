@@ -24,11 +24,11 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 
 ### Desarrollo Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize)](https://skillicons.dev)
 
 ### Bases de Datos
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,sequelize)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 ### Otras Herramientas
 

@@ -44,6 +44,8 @@ Diseñar y desarrollar un E-Commerce de Libros que incluía: búsquedas, filtrad
 
 Proyecto =><a href='https://github.com/scch94/probando-pf'><strong>Henry Books</strong></a>
 
+</br>
+
 ### Proyecto Individual
 
 <img src='./img/PI_2.png' alt='img Proyecto Individual'/>

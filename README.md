@@ -38,11 +38,15 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 
 ### Proyecto Grupal
 
+<img src='./img/books.png' alt='img Proyecto Grupal'/>
+
 Diseñar y desarrollar un E-Commerce de Libros que incluía: búsquedas, filtrados, ordenamientos, creación, autenticaciones de usuarios, pasarela de pagos, chatbot, reviews, dashboard, productos destacados.
 
 Proyecto =><a href='https://github.com/scch94/probando-pf'><strong>Henry Books</strong></a>
 
 ### Proyecto Individual
+
+<img src='./img/PI_2.png' alt='img Proyecto Individual'/>
 
 El objetivo de este proyecto es hacer una App usando React, Redux, NodeJS, Sequelize y Express.
 

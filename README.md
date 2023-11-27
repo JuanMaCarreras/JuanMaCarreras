@@ -34,6 +34,10 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman)](https://skillicons.dev)
 
+#### Tecnologías que estoy aprendiendo
+
+[![My Skills](https://skillicons.dev/icons?i=docker,ts)](https://skillicons.dev)
+
 <h2 align='center'>Proyectos en los que he participado</h2>
 
 ### Proyecto Grupal

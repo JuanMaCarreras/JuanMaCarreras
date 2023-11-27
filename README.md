@@ -54,7 +54,7 @@ El objetivo de este proyecto es hacer una App usando React, Redux, NodeJS, Seque
 
 -   Desarrollando y gestionando servidores con (Express y NodeJs) Base de Datos con ( Postgres SQL y Sequelize)
 -   Desarrollando y gestionando la parte del cliente con (ReactJs, Redux, HTML y CSS)
-    React y sus estados locales / coompnentes y sus siclos de vida
+    React y sus estados locales / componentes y sus siclos de vida
     Redux y sus estados globales
 
 Proyecto =><a href='https://github.com/JuanMaCarreras/PI-Countries'><strong>Countries</strong></a>

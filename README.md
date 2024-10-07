@@ -28,7 +28,7 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 
 ### Bases de Datos
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
 
 ### Otras Herramientas
 
@@ -36,7 +36,7 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 
 #### Tecnologías que estoy aprendiendo
 
-[![My Skills](https://skillicons.dev/icons?i=docker,ts,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,py)](https://skillicons.dev)
 
 ## _No dudes en contactarme!_
 

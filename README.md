@@ -4,11 +4,11 @@
 
 ## ¿Quién soy?
 
-👋 Hola! Mi nombre es Juan Manuel Carreras.
+Hola 👋! Mi nombre es Juan Manuel Carreras. 
 
-Después de profundizar en la programación de manera autodidacta, decidí enfrentar nuevos desafíos. Actualmente, ostento la certificación de **Full Stack Developer** y he tenido la oportunidad de participar en proyectos reales. Estas experiencias abarcaron tanto trabajos en solitario como colaboraciones grupales, lo que me ha permitido ampliar mis habilidades y conocimientos en el desarrollo de software.
+Soy **Desarrollador Web** especializado en el stack PERN. Experiencia en diseño e implementación de soluciones funcionales. Gran habilidad en la resolución de problemas y un fuerte sentido de responsabilidad y eficazmente a la hora de en equipo.
 
-Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el que pueda seguir capacitándome y perfeccionando mis habilidades técnicas.
+Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el que pueda seguir capacitándome y perfeccionando mis habilidades técnicas. 
 
 </p>
 

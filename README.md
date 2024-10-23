@@ -2,9 +2,7 @@
  Full Stack Developer 
 </h2>
 
-## ¿Quién soy?
-
-Hola 👋! Mi nombre es Juan Manuel Carreras. 
+## Hola 👋! Mi nombre es Juan Manuel Carreras. 
 
 Soy **Desarrollador Web** especializado en el stack PERN. Experiencia en diseño e implementación de soluciones funcionales. Gran habilidad en la resolución de problemas y un fuerte sentido de responsabilidad y eficazmente a la hora de en equipo.
 
@@ -12,7 +10,7 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 
 </p>
 
-<h2 align='center'> Habilidades: </h2>
+<h2 align='center'> Tecnologías: </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
 

@@ -13,23 +13,9 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 <h2 align='center'> Tecnologías: </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)
-
-<h2 align='center'>Frameworks y bibliotecas:</h2>
-
-### Desarrollo Fornt-End
-
 [![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,vite)](https://skillicons.dev)
-
-### Desarrollo Back-End
-
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize)](https://skillicons.dev)
-
-### Bases de Datos
-
 [![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
-
-### Otras Herramientas
-
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman)](https://skillicons.dev)
 
 #### Tecnologías que estoy aprendiendo

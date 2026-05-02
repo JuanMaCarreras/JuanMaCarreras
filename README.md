@@ -15,7 +15,7 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,vite)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,firebase)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman)](https://skillicons.dev)
 
 #### Tecnologías que estoy aprendiendo

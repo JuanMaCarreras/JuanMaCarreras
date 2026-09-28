@@ -12,15 +12,15 @@ Estoy abierto a nuevos desafíos y busco sumarme a un equipo de trabajo en el qu
 
 <h2 align='center'> Tecnologías: </h2>
 
-[My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,py)]
-[My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,vite)]
-[My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize)]
-[My Skills](https://skillicons.dev/icons?i=postgres,sqlite,firebase,supabase)]
-[My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman)]
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,py)
+![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,vite)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize)
+![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,firebase,supabase)
+![My Skills](https://skillicons.dev/icons?i=github,git,vscode,postman)
 
 #### Tecnologías que estoy aprendiendo
 
-[My Skills](https://skillicons.dev/icons?i=fastapi,astro,docker,aws)
+![My Skills](https://skillicons.dev/icons?i=fastapi,astro,docker,aws)
 
 ## _No dudes en contactarme!_
 
